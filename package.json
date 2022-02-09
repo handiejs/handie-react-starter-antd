@@ -1,6 +1,6 @@
 {
   "name": "handie-react-starter-antd",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "`handie-react` + `@handie/squirtle` + `antd` + `@zoras/adapter-ant-design`",
   "main": "dist/index.js",
   "module": "dist/index.js",
