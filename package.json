@@ -39,10 +39,11 @@
     "release": "npm publish"
   },
   "dependencies": {
-    "@handie/squirtle": "0.0.5",
-    "@zoras/adapter-ant-design": "0.0.7",
+    "@ant-design/icons": "4.7.0",
+    "@handie/squirtle": "0.0.6",
+    "@zoras/adapter-ant-design": "0.0.8",
     "antd": "4.18.9",
-    "handie-react": "0.0.5"
+    "handie-react": "0.0.6"
   },
   "peerDependencies": {
     "react": "~17.0.2",
